@@ -1,5 +1,12 @@
 # Glasgow TSP Challenge
 
+These instructions and all the code and data files are available on github.com/GUTS2015/Glasgow-TSP-Challenge
+
+To get everything onto your computer just type:
+```bash
+git clone git@github.com:GUTS2015/Glasgow-TSP-Challenge.git
+```
+
 1. Find the shortest tour that covers the 348 locations in file g7k.tsp.
 2. All locations are space delimited x y coordinates (units might vary), one location per line, e.g.:
 ```
