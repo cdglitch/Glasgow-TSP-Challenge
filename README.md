@@ -32,12 +32,13 @@ git clone git@github.com:GUTS2015/Glasgow-TSP-Challenge.git
 java Verify g7k.tsp g7k.sol
 ```
 6. Shortest tour wins, tie breaking on who commits that tour on github first.
-7. You can push a solution to github as often as you wish.
-8. You can visualise any valid tour using Display.java, i.e.:
+7. You have to show us your code (github), and your program computing the route must be your own.
+8. You can push a solution to github as often as you wish.
+9. You can visualise any valid tour using Display.java, i.e.:
 ```bash
 java Display SisterTour.tsp SisterTour.sol
 ```
-9. You have to compile all .java files with java 7 (and not java 8), like this:
+10. You have to compile all .java files with java 7 (and not java 8), like this:
 ```bash
 javac *.java
 ```
