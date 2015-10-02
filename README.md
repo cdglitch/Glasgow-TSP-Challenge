@@ -36,6 +36,8 @@ javac *.java
 ```
 
 Best of luck,
+
 Adam Kurkiewicz & Patrick Prosser
+
 02/10/2015
 
