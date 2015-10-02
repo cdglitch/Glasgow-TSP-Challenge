@@ -29,7 +29,7 @@ git clone git@github.com:GUTS2015/Glasgow-TSP-Challenge.git
 6. All locations have to be visited once and only once.
 5. Your solution will be costed using Verify.java program, i.e.:
 ```bash
-java Verify g7k.tsp g7k.sol  
+java Verify g7k.tsp g7k.sol
 ```
 6. Shortest tour wins, tie breaking on who commits that tour on github first.
 7. You can push a solution to github as often as you wish.
